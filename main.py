@@ -14,4 +14,7 @@ weight = float(input("請輸入體重(kg): "))
 bmi = bmi_generator(height, weight)
 
 # 把bmi轉成str，並印出來
-print("您的BMI為" + str(bmi))
+print("您的BMI為: " + str(bmi))
+
+# 把bmi四捨五入到小數點第二位，同時轉成str印出來
+print("您的BMI為(四捨五入到小數第二位): " + str(round(bmi, 2)))
