@@ -1,6 +1,8 @@
 # study-python-1
 Fist import python project from PyCharm.
 
+Repl.it: [https://repl.it/@mrcutejacky/study-python-1]
+
 ### 重點整理
 1. 宣告函式必須在前，使用在後。
 2. 字串相加之前，必須先把其他型別轉成字串才能相加。
